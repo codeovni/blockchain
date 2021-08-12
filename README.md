@@ -1,7 +1,7 @@
 # BlockChain
 This is a simple blockchain application for testing.
 
-### Install, build and run
+### Install, build and start
 ```shell
 # Install packages
 npm install
